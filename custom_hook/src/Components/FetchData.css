@@ -1,4 +1,8 @@
 /* FetchData.css */
+.heading{
+    text-align: center;
+    color: blue
+}
 
 .list_data_main {
     list-style: none;
